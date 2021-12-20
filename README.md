@@ -9,7 +9,7 @@
 
 - 🔭 Currently Working at [Gamers Club](https://gamersclub.gg)
 
-- 🌱 Specializing in **Node, Typescript e SQL Databases**
+- 🌱 Specializing in **Node, Typescript, SQL Databases and Agile**
 
 - ⚡ Fun fact: **I am passionate about eSports**
   
