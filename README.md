@@ -7,16 +7,16 @@
 
 - 🎓 Graduated in Software Engineering at [Universidade do Estado de Santa Catarina (UDESC)](https://www.udesc.br)
 
-- 🔭 Currently Working at [Gamers Club](https://gamersclub.gg)
+- 🔭 Currently Looking for an Opportunity
 
-- 🌱 Specializing in **Node, Typescript, SQL Databases and Agile**
+- 🌱 Specializing in **Node, Typescript, SQL Databases, Agile, and Leadership**
 
-- ⚡ Fun fact: **I am passionate about eSports**
+- ⚡ Fun fact: **I realy like American Football 🏈**
   
   
 <h3 align="left">📫 Contact:</h3>  
 
-- 📫 Talk to me about tech, code, study and eSports >> **douglasfelipebs@hotmail.com**
+- 📫 Talk to me about tech, code, study, and eSports >> **douglasfelipebs@hotmail.com**
 
 <h3 align="left">📱 Technologies:</h3>
 
@@ -40,6 +40,5 @@
 
 <h3 align="left">👨‍💻 Follow me on Social Media:</h3>
 <p align="left">
-<a href="https://twitter.com/douglasfelipebs" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="TWITTER" height="30"  /></a>
 <a href="https://www.linkedin.com/in/douglasfelipebs/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LINKEDIN" height="30"/></a>
 </p>
