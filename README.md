@@ -1,17 +1,12 @@
 <h1 align="left">Douglas "JEWD" Bussmann</h1>
 <h3 align="left">👨 Software Engineer</h3>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=douglasfelipebs)
-
-[![JEWD's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfelipebs&theme=dark&layout=compact)](https://github.com/douglasfelipebs)
-
 - 🎓 Graduated in Software Engineering at [Universidade do Estado de Santa Catarina (UDESC)](https://www.udesc.br)
 
 - 🔭 Currently Looking for an Opportunity
 
 - 🌱 Specializing in **Node, Typescript, SQL Databases, Agile, and Leadership**
 
-- ⚡ Fun fact: **I realy like American Football 🏈**
+- ⚡ Fun fact: **I really like American Football 🏈**
   
   
 <h3 align="left">📫 Contact:</h3>  
