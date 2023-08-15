@@ -1,5 +1,6 @@
 <h1 align="left">Douglas "JEWD" Bussmann</h1>
 <h3 align="left">👨 Software Engineer</h3>
+
 - 🎓 Graduated in Software Engineering at [Universidade do Estado de Santa Catarina (UDESC)](https://www.udesc.br)
 
 - 🔭 Currently Looking for an Opportunity
