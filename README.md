@@ -3,7 +3,7 @@
 
 - 🎓 Graduated in Software Engineering at [Universidade do Estado de Santa Catarina (UDESC)](https://www.udesc.br)
 
-- 🔭 Currently Looking for an Opportunity
+- 🔭 Always Looking for opportunities
 
 - 🌱 Specializing in **Node, Typescript, SQL Databases, Agile, and Leadership**
 
