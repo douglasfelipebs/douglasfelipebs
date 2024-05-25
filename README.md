@@ -3,9 +3,13 @@
 
 - 🎓 Graduated in Software Engineering at [Universidade do Estado de Santa Catarina (UDESC)](https://www.udesc.br)
 
+- 🎓 Ongoing Post Graduation in Agile Methodologies at [UniCesumar](https://www.unicesumar.edu.br/)
+
 - 🔭 Always Looking for opportunities
 
 - 🌱 Specializing in **Node, Typescript, SQL Databases, Agile, and Leadership**
+
+- 🔗 Starting in **Blockchain and Crypto**
 
 - ⚡ Fun fact: **I really like American Football 🏈**
   
